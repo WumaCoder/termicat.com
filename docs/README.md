@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-footer: Copyright © 2024-Present <a href="https://github.com/WumaCoder">终端猫</a> | <a href="https://beian.miit.gov.cn/">京ICP备2024043355号-1</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11011302007067" rel="noreferrer" target="_blank"><img src="./g.png" width="13" height="13"> 京公网安备11011302007067</a>
+footer: Copyright © 2024-Present <a href="https://github.com/WumaCoder">终端猫</a> | <a href="https://beian.miit.gov.cn/">京ICP备2024043355号-2</a>
 footerHtml: true
 
 features:
